@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+div{
+    color: black;
+    background-color: palevioletred;
+    margin: 20px;
+    padding: 20px;
+    border-top: 30px solid tomato;
+    border-radius: 15px;
+    text-align: center;
+
+
+}
